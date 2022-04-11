@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">myDoctor</string>
+    <string name="welcome_to_this_application">Welcome to this application</string>
+
+    <string-array name="timeframes">
+        <item>select time you are available</item>
+        <item>7-9 AM</item>
+        <item>9-11 AM</item>
+        <item>11-1 PM</item>
+        <item>2-4 PM</item>
+        <item>4-6 PM</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>select department</item>
+        <item>Dentistry</item>
+        <item>Surgery</item>
+
+    </string-array>
+    <string-array name="specialization">
+        <item>select specialization</item>
+        <item>General</item>
+        <item>Periodontist</item>
+
+    </string-array>
+</resources>
